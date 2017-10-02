@@ -58,7 +58,7 @@ class Die
       
      fill(0);
     ellipse(myX+40,myY+40,10,10);
-        System.out.println(Diedot);
+       // System.out.println(Diedot);
     num = num +1;
     }
     else if (Diedot ==2)
@@ -67,7 +67,7 @@ class Die
      fill(0);
     ellipse(myX+60,myY+20,10,10);
     ellipse(myX+20,myY+60,10,10);
-        System.out.println(Diedot);
+     //   System.out.println(Diedot);
     num= num+2;
     }
     else if (Diedot == 3)
@@ -77,7 +77,7 @@ class Die
     ellipse(myX+40,myY+40,10,10);
     ellipse(myX+60,myY+20,10,10);
     ellipse(myX+20,myY+60,10,10);
-        System.out.println(Diedot);
+    //    System.out.println(Diedot);
     num=num+3;
     }
     else if (Diedot == 4)
@@ -88,7 +88,7 @@ class Die
     ellipse(myX+60,myY+20,10,10);
     ellipse(myX+60,myY+60,10,10);
     num=num+4;
-    System.out.println(Diedot);
+   // System.out.println(Diedot);
     }
     else if (Diedot ==5)
     {
@@ -98,7 +98,7 @@ class Die
     ellipse(myX+20,myY+20,10,10);
     ellipse(myX+60,myY+20,10,10);
     ellipse(myX+20,myY+60,10,10);
-        System.out.println(Diedot);
+     //   System.out.println(Diedot);
     num=num+5;
     }
     else if (Diedot ==6)
@@ -110,7 +110,7 @@ class Die
     ellipse(myX+20,myY+20,10,10);
     ellipse(myX+60,myY+20,10,10);
     ellipse(myX+20,myY+60,10,10);
-        System.out.println(Diedot);
+      //  System.out.println(Diedot);
     num=num+6;
     }
     } 
